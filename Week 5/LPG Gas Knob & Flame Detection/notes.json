@@ -1,0 +1,21 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "name": "flame_gas_off"
+    },
+    {
+      "id": 1,
+      "name": "flame_gas_on"
+    },
+    {
+      "id": 2,
+      "name": "noflame_gason"
+    }
+  ],
+  "info": {
+    "year": 2026,
+    "version": "1.0",
+    "contributor": "Label Studio"
+  }
+}
